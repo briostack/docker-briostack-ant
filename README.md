@@ -1,0 +1,1 @@
+This repository is automatically mirrored on github at https://github.com/briostack/docker-briostack-ant and is automatically built on docker hub at https://hub.docker.com/r/briostack/ant/
